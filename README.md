@@ -8,8 +8,8 @@ Code for "Vector Threshold Autoregressive Models with Multivariate Threshold Var
 "tsgenerator0X.R" generates multivariate time series given a specific VARTMT Model; 
 
 
-"GA0X.R" selects and estimates VARTMT Model via GA algorithm; \n
+"GA0X.R" selects and estimates VARTMT Model via GA algorithm;
 
 
 
-"IR.R" is for a cases analysis for interest rate data.
+"IR.R" is for a case analysis for interest rate data.
